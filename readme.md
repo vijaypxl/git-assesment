@@ -9,3 +9,14 @@ Do the necessary changes on your branch and later merge it to `develop`
 
 At the end develop branch should have all the changes of both branches 
 `feature/add_heading` and `feature/add_jumbotron`
+
+
+
+Hints:
+- checkout to feature branch
+- Uncomment commented code
+- Commit and push
+- Merge to develop locally
+- till here, you should have a updated development branch
+- Merge develop into master
+ 
